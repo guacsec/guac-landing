@@ -35,7 +35,7 @@ params:
     # Button text
     button1text: Find out more
     button1link: "#problem"
-    button2text: Soon in Beta!
+    button2text: Now in Beta!
     button2link: "https://docs.guac.sh"
 
     # Hero image (from static/images/___)
@@ -200,10 +200,9 @@ params:
 
 
   sectionBeta:
-    title: GUAC Beta is coming soon!
-    subtitle: Coming soon!
-      #subtitle: In the Beta, you can run GUAC internally in your organization to take active steps to manage risk. Currently, you can query SLSA provenance, SBOMs, and OpenSSF Scorecards. In the future, GUAC aims to run as a public service where high-fidelity supply chain security metadata can be attained for every software ecosystem.
-    buttonText: Check out Beta Soon!
+    title: GUAC Beta is now open!
+    subtitle: In the Beta, you can run GUAC internally in your organization to take active steps to manage risk. Currently, you can query SLSA provenance, SBOMs, and OpenSSF Scorecards. In the future, GUAC aims to run as a public service where high-fidelity supply chain security metadata can be attained for every software ecosystem.
+    buttonText: Check out Beta
     buttonLink: "https://github.com/guacsec/guac/demos"
 
 
