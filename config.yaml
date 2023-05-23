@@ -203,7 +203,7 @@ params:
     title: GUAC Beta is now open!
     subtitle: In the Beta, you can run GUAC internally in your organization to take active steps to manage risk. Currently, you can query SLSA provenance, SBOMs, and OpenSSF Scorecards. In the future, GUAC aims to run as a public service where high-fidelity supply chain security metadata can be attained for every software ecosystem.
     buttonText: Check out Beta
-    buttonLink: "https://github.com/guacsec/guac/demos"
+    buttonLink: "https://docs.guac.sh/guac-use-cases/"
 
 
 
@@ -212,7 +212,7 @@ params:
     title: Try the GUAC Beta today!
     subtitle: Get started with GUAC today by taking a look at our GUAC Beta demos and tutorials!
     buttonText: Check out our demos
-    buttonLink: "https://github.com/guacsec/guac/demos"
+    buttonLink: "https://docs.guac.sh/guac-use-cases/"
 
 
   section4:
