@@ -118,25 +118,25 @@ params:
     - title: Proactive
       icon: mouse-globe
       texts:
-      - text: Find the most used critical components in a software supply chain ecosystem.
-      - text: Find weaknesses in overall security posture.
-      - text: Prevent supply chain compromises before they happen.
-      - text: Find exposures to risky dependencies.
+      - text: Find the most used critical components in a software supply chain ecosystem
+      - text: Find weaknesses in overall security posture
+      - text: Prevent supply chain compromises before they happen
+      - text: Find exposures to risky dependencies
       url: https://github.com/guacsec/guac
       buttonText: Find GUAC
     - title: Operational
       icon: laptop-cloud
       texts: 
-      - text: Look for evidence that the application you're about to deploy meets your organization's policies.
-      - text: Track if all binaries in production trace back to a securely managed repository.
+      - text: Look for evidence that the application you're about to deploy meets your organization's policies
+      - text: Track if all binaries in production trace back to a securely managed repository
       url: https://github.com/guacsec/guac
       buttonText: Get GUAC
     - title: Reactive
       icon: doc-sync
       texts: 
-      - text: Find which parts of your organization's inventory are affected by a new vulnerability.
-      - text: Track a suspicious project lifecycle event back to the risk that was introduced into your organization.
-      - text: Learn how an open source project deprecation affects you.
+      - text: Find which parts of your organization's inventory are affected by a new vulnerability
+      - text: Track a suspicious project lifecycle event back to the risk that was introduced into your organization
+      - text: Learn how an open source project deprecation affects you
       url: https://github.com/guacsec/guac
       buttonText: Eat GUAC
 
@@ -189,7 +189,7 @@ params:
 
   sectionProblem:
     title: The current problem with software supply chain security
-    subtitle: Software supply chain attacks are on the rise and unless you have enterprise-scale security and IT funding, it’s hard to know what your software is at risk for and how to protect it. Many tools are available to help you generate Software Bills of Materials (SBOMs), signed attestations, and vulnerability reports, but they stop there, leaving you to figure out how one piece of software affects another. 
+    subtitle: Software supply chain attacks are on the rise and it’s hard to know what your software is at risk for and how to protect it. Many tools are available to help you generate Software Bills of Materials (SBOMs), signed attestations, and vulnerability reports, but they stop there, leaving you to figure out how they all fit together.
 
   sectionVision:
     title: Our Vision
