@@ -31,7 +31,7 @@ params:
     # Main hero title
     title: Know your software supply chain
     # Hero subtitle (optional)
-    subtitle: Use GUAC to get organized and actionable insights into your software supply chain security position. 
+    subtitle: GUAC gives you directed, actionable insights into the security of your software supply chain.
     # Button text
     button1text: Find out more
     button1link: "#problem"
@@ -41,7 +41,6 @@ params:
     # Hero image (from static/images/___)
     #image: illustrations/worker.svg
     image: logos/guac-logo.png
-
 
     # Footer logos (from static/images/logos/clients/___.svg)
     # clientlogos:
@@ -190,23 +189,18 @@ params:
 
   sectionProblem:
     title: The current problem with software supply chain security
-    subtitle: Software supply chain attacks are on the rise and unless you have enterprise-scale security and IT funding, it’s hard to know what your software is at risk for and how to protect it. Many tools are available to help you generate Software Bills of Materials (SBOMs), signed attestations, and vulnerabilities, but they stop there, leaving you to figure out how one piece of software affects another. 
+    subtitle: Software supply chain attacks are on the rise and unless you have enterprise-scale security and IT funding, it’s hard to know what your software is at risk for and how to protect it. Many tools are available to help you generate Software Bills of Materials (SBOMs), signed attestations, and vulnerability reports, but they stop there, leaving you to figure out how one piece of software affects another. 
 
   sectionVision:
     title: Our Vision
     subtitle: GUAC (Graph for Understanding Artifact Composition) aims to fill in the gaps by ingesting software metadata, like SBOMs, and mapping out relationships between software. When you know how one piece of software affects another, you’ll be able to fully understand your software security position and act as needed. 
     image: illustrations/undraw/undraw_image_viewer_re_7ejc.svg
 
-
-
   sectionBeta:
     title: GUAC Beta is now open!
     subtitle: In the Beta, you can run GUAC internally in your organization to take active steps to manage risk. Currently, you can query SLSA provenance, SBOMs, and OpenSSF Scorecards. In the future, GUAC aims to run as a public service where high-fidelity supply chain security metadata can be attained for every software ecosystem.
     buttonText: Check out Beta
     buttonLink: "https://docs.guac.sh/guac-use-cases/"
-
-
-
 
   sectionUniid:
     title: Try the GUAC Beta today!
