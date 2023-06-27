@@ -4,6 +4,20 @@ section: single
 type: page
 ---
 
+<h2><a href="https://kusari.dev/blog/guac-beta-announcement/">Quest to determine the 'G' in GUAC
+</a></h2>
+
+#### Kusari
+
+##### June 27, 2023
+
+As we work to meet the goals of persistence in GUAC, we are running a series of analyses and comparisons among the many different graph database options. GUAC has a few critically important requirements for the backend, including: efficient ingestion of data, performant complex queries, the schema in which the data is stored, and finally optimization of the query based on the specific language.
+
+<a href="https://www.kusari.dev/blog/guac-database-selection/" class="button">Read
+the full post on Kusari</a>
+
+---
+
 <h2><a href="https://kusari.dev/blog/guac-beta-announcement/">Announcement for the GUAC v0.1 beta release
 </a></h2>
 
