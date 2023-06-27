@@ -4,7 +4,7 @@ section: single
 type: page
 ---
 
-<h2><a href="https://kusari.dev/blog/guac-beta-announcement/">Quest to determine the 'G' in GUAC
+<h2><a href="https://www.kusari.dev/blog/guac-database-selection/">Quest to determine the 'G' in GUAC
 </a></h2>
 
 #### Kusari
