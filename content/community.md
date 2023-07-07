@@ -17,7 +17,7 @@ We host monthly community calls available for all to join.
 We host GUAC office hours where you can come by and ask questions about using
 GUAC or contributing to the project.
 
-<a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=NjVlNDFrNHJ0NXU0bDhsdjN0cm9vdmtpa2lfMjAyMzA3MDdUMTgwMDAwWiBwYXJ0aEBrdXNhcmkuZGV2&amp;tmsrc=parth%40kusari.dev&amp;scp=ALL"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>
+<a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=NjVlNDFrNHJ0NXU0bDhsdjN0cm9vdmtpa2lfMjAyMzA3MDdUMTgwMDAwWiBjXzg0ZjFmY2FhZGVhMmM0NTZlYTBkNWQ2OTljMzIwZWU5ZDc1NzY0ODQ0NzRlYmVmY2U1N2M0N2QxZWFlYjAyZDZAZw&amp;tmsrc=c_84f1fcaadea2c456ea0d5d699c320ee9d7576484474ebefce57c47d1eaeb02d6%40group.calendar.google.com&amp;scp=ALL"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>
 
 ### Groups / Mailing lists
 
