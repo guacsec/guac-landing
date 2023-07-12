@@ -6,6 +6,10 @@ type: page
 
 Welcome to the GUAC community!
 
+### Community Slack Channel
+
+Join the [GUAC public slack channel](https://openssf.slack.com/archives/C03U677QD46) on the [OpenSSF slack](https://slack.openssf.org/). Note: you may need to register [here](https://slack.openssf.org/) before having access to the channel.
+
 ### Community Calls
 
 We host monthly community calls available for all to join.
@@ -21,11 +25,7 @@ GUAC or contributing to the project.
 
 ### Groups / Mailing lists
 
-- [Public slack channel](https://openssf.slack.com/archives/C03U677QD46) on the
-  [OpenSSF slack](https://slack.openssf.org/). Note: you may need to register
-  [here](https://slack.openssf.org/) before having access to the channel.
-- [Public mailing list/GUAC community google group](https://groups.google.com/forum/#!forum/guac-community/join)
-  for future updates, announcements, and community meetings.
+[Public mailing list/GUAC community google group](https://groups.google.com/forum/#!forum/guac-community/join) for future updates, announcements, and community meetings.
 
 ### Governance
 
