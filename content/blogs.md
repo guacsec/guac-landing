@@ -20,7 +20,7 @@ the full post on Kusari</a>
 
 ---
 
-<h2><a href="https://www.kusari.dev/blog/guac-database-selection/">Quest to determine the 'G' in GUAC
+<h2><a href="https://www.kusari.dev/blog/quest-to-determine-the-g-in-guac">Quest to determine the 'G' in GUAC
 </a></h2>
 
 #### Kusari
@@ -29,7 +29,7 @@ the full post on Kusari</a>
 
 As we work to meet the goals of persistence in GUAC, we are running a series of analyses and comparisons among the many different graph database options. GUAC has a few critically important requirements for the backend, including: efficient ingestion of data, performant complex queries, the schema in which the data is stored, and finally optimization of the query based on the specific language.
 
-<a href="https://www.kusari.dev/blog/guac-database-selection/" class="button">Read
+<a href="https://www.kusari.dev/blog/quest-to-determine-the-g-in-guac" class="button">Read
 the full post on Kusari</a>
 
 ---
