@@ -12,9 +12,7 @@ Join the [GUAC public slack channel](https://openssf.slack.com/archives/C03U677Q
 
 ### Community Calls
 
-We host monthly community calls on the 3rd Thursday every month available for all to join.
-
-<a target="_blank" href="https://calendar.google.com/calendar/embed?src=c_84f1fcaadea2c456ea0d5d699c320ee9d7576484474ebefce57c47d1eaeb02d6%40group.calendar.google.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>
+We host monthly community calls on the 3rd Thursday every month available for all to join. [Invitation](https://zoom-lfx.platform.linuxfoundation.org/meeting/97171675096?password=92eabdda-8061-487f-88b2-f74fdc2b87f2) can be found on the OpenSSF calendar.
 
 ### Office Hours
 
