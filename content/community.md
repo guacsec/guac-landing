@@ -10,7 +10,7 @@ Welcome to the GUAC community!
 
 Join the [GUAC public slack channel](https://openssf.slack.com/archives/C03U677QD46) on the [OpenSSF slack](https://slack.openssf.org/).
 
-If you are a new user to the OpenSSF Slack you can get an invite to join by going to [Get Involved](https://openssf.org/getinvolved/) and clicking on the "Participate on Slack". After that you can join the [GUAC public slack channel](https://openssf.slack.com/archives/C03U677QD46).
+If you are a new user to the OpenSSF Slack you can get an invite to join by going to [Get Involved](https://openssf.org/getinvolved/) and clicking on "Participate on Slack". After that you can join the [GUAC public slack channel](https://openssf.slack.com/archives/C03U677QD46).
 
 ### Community Calls
 
