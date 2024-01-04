@@ -20,10 +20,12 @@ We host monthly community calls on the 3rd Thursday every month available for al
 
 We host GUAC office hours where you can come by and ask questions about using
 GUAC or contributing to the project. We hold office hours every 2 weeks and
-alternate between EMEA and NA friendly timing. Please add the following calendar
-for more details:
+alternate between EMEA and NA friendly timing. 
+Refer to the [OpenSSF calendar](https://openssf.org/getinvolved/) or get an invite
+to the meetings at the following links:
 
-<a target="_blank" href="https://calendar.google.com/calendar/embed?src=c_84f1fcaadea2c456ea0d5d699c320ee9d7576484474ebefce57c47d1eaeb02d6%40group.calendar.google.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>
+- [EMEA Office Hours](https://zoom-lfx.platform.linuxfoundation.org/meeting/98129525584?password=db7b7e22-e1eb-4936-962c-2840475ab11c)
+- [NA Office Hours](https://zoom-lfx.platform.linuxfoundation.org/meeting/99570351921?password=6537e2c3-4631-4d5f-9632-3156c9b2f5cb)
 
 ### Groups / Mailing lists
 
