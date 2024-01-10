@@ -16,16 +16,13 @@
     {{ partial "section2.html" . }}
     {{ end }}
 
-
-    {{ if .Site.Params.sectionVision }}
-    {{ partial "section-vision.html" . }}
-    {{ end }}
-
-
     {{ if .Site.Params.sectionCollab }}
     {{ partial "section-collab.html" . }}
     {{ end }}
 
+    {{ if .Site.Params.sectionVision }}
+    {{ partial "section-vision.html" . }}
+    {{ end }}
 
     {{ if .Site.Params.sectionBeta }}
     {{ partial "section-beta.html" . }}

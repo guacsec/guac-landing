@@ -115,43 +115,45 @@ params:
     title: How GUAC can help you 
     subtitle: These are just a few examples of insights that GUAC can give you to improve your software security posture
     tiles:
-    - title: Proactive
-      icon: mouse-globe
+    - title: Unveils gaps
+      icon: binoculars
       texts:
       - text: Find the most used critical components in a software supply chain ecosystem
-      - text: Find weaknesses in overall security posture
+      - text: Track if all binaries in production trace back to a securely managed repository
       - text: Prevent supply chain compromises before they happen
       - text: Find exposures to risky dependencies
       url: https://github.com/guacsec/guac
       buttonText: Find GUAC
-    - title: Operational
-      icon: laptop-cloud
+    - title: Compliance
+      icon: check
       texts: 
+      - text: Determine ownership of applications by organization
       - text: Look for evidence that the application you're about to deploy meets your organization's policies
-      - text: Track if all binaries in production trace back to a securely managed repository
+      - text: Determine which application is missing SBOM or SLSA attestations
+      - text: Conduct SBOM Diffs to quickly determine changes between versions
       url: https://github.com/guacsec/guac
       buttonText: Get GUAC
-    - title: Reactive
-      icon: doc-sync
+    - title: Threat Detection
+      icon: skull-crossbones
       texts: 
-      - text: Find which parts of your organization's inventory are affected by a new vulnerability
-      - text: Track a suspicious project lifecycle event back to the risk that was introduced into your organization
-      - text: Learn how an open source project deprecation affects you
+      - text: Determine the blast radius of a bad package or a vulnerability and provide information and a patch plan towards remediation
+      - text: Track a suspicious project lifecycle event back to when it was introduced
+      - text: Obtain greater insight into vendor software vulnerabilities via VEX and project deprecation 
       url: https://github.com/guacsec/guac
       buttonText: Eat GUAC
 
 
 
-  section2:
-    title: What does GUAC do?
-    subtitle: ""
-    features:
-    - title: Establishes connections between your software catalog
-      icon: illustrations/undraw/undraw_share_link_re_54rx.svg
-    - title: Unveils gaps in the software supply chain data using other data sources
-      icon: illustrations/undraw/undraw_personal_data_re_ihde.svg
-    - title: Identifies threats in your supply chain and provides a path to remediation
-      icon: illustrations/undraw/undraw_software_engineer_re_tnjc.svg
+  # section2:
+  #   title: What does GUAC do?
+  #   subtitle: ""
+  #   features:
+  #   - title: Establishes connections between your software catalog
+  #     icon: illustrations/undraw/undraw_share_link_re_54rx.svg
+  #   - title: Unveils gaps in the software supply chain data using other data sources
+  #     icon: illustrations/undraw/undraw_personal_data_re_ihde.svg
+  #   - title: Identifies threats in your supply chain and provides a path to remediation
+  #     icon: illustrations/undraw/undraw_software_engineer_re_tnjc.svg
 
   sectionCollab:
     title: In Open Source collaboration with
