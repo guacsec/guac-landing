@@ -7,16 +7,8 @@
     {{ partial "section-problem.html" . }}
     {{ end }}
 
-    {{ if .Site.Params.sectionVision }}
-    {{ partial "section-vision.html" . }}
-    {{ end }}
-
-    {{ if .Site.Params.sectionBeta }}
-    {{ partial "section-beta.html" . }}
-    {{ end }}
-
-    {{ if .Site.Params.sectionCollab }}
-    {{ partial "section-collab.html" . }}
+    {{ if .Site.Params.section1 }}
+    {{ partial "section1.html" . }}
     {{ end }}
 
 
@@ -24,9 +16,16 @@
     {{ partial "section2.html" . }}
     {{ end }}
 
+    {{ if .Site.Params.sectionCollab }}
+    {{ partial "section-collab.html" . }}
+    {{ end }}
 
-    {{ if .Site.Params.section1 }}
-    {{ partial "section1.html" . }}
+    {{ if .Site.Params.sectionVision }}
+    {{ partial "section-vision.html" . }}
+    {{ end }}
+
+    {{ if .Site.Params.sectionBeta }}
+    {{ partial "section-beta.html" . }}
     {{ end }}
 
     {{ if .Site.Params.section4 }}
