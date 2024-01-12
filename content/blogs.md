@@ -2,6 +2,7 @@
 title: "Blogs"
 section: single
 type: page
+include_footer: true
 ---
 
 <h2><a href="https://www.kusari.dev/blog/terror-of-curl/">Terror of cURL - Preparation is half the battle
