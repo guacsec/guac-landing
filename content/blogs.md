@@ -5,6 +5,20 @@ type: page
 include_footer: true
 ---
 
+
+<h2><a href="http://www.kusari.dev/blog/graph-for-understanding-artifact-composition-guac-joins-openssf-as-incubating-project">Graph for Understanding Artifact Composition (GUAC) Joins OpenSSF as Incubating Project</a></h2>
+
+#### GUAC Maintainers
+
+##### March 7, 2024
+
+The GUAC maintainers are pleased to announce the project has joined the Open Source Security Foundation (OpenSSF) as an Incubating Project.
+
+<a href="http://www.kusari.dev/blog/graph-for-understanding-artifact-composition-guac-joins-openssf-as-incubating-project" class="button">Read
+the full post</a>
+
+---
+
 <h2><a href="https://www.kusari.dev/blog/terror-of-curl/">Terror of cURL - Preparation is half the battle
 </a></h2>
 
