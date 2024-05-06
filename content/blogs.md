@@ -6,6 +6,19 @@ include_footer: true
 ---
 
 
+<h2><a href="https://www.kusari.dev/blog/graph-for-understanding-artifact-composition-guac-adds-persistent-storage-in-v0-6-0-release">Graph for Understanding Artifact Composition (GUAC) adds persistent storage in v0.6.0 release</a></h2>
+
+#### GUAC Maintainers
+
+##### May 6, 2024
+
+The GUAC community maintainers, contributors and collaborators are thrilled to announce – GUAC is persistent! Following a year-long effort of significant collaboration and development, GUAC has standardized on and fully supports the popular open source database system, PostgreSQL, for its persistent backend storage.
+
+<a href="https://www.kusari.dev/blog/graph-for-understanding-artifact-composition-guac-adds-persistent-storage-in-v0-6-0-release" class="button">Read
+the full post</a>
+
+---
+
 <h2><a href="http://www.kusari.dev/blog/graph-for-understanding-artifact-composition-guac-joins-openssf-as-incubating-project">Graph for Understanding Artifact Composition (GUAC) Joins OpenSSF as Incubating Project</a></h2>
 
 #### GUAC Maintainers
