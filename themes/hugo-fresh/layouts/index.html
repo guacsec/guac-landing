@@ -3,6 +3,10 @@
     {{ partial "hero.html" . }}
     {{ end }}
 
+    {{ if .Site.Params.sectionOpenssf }}
+    {{ partial "section-openssf.html" . }}
+    {{ end }}
+
     {{ if .Site.Params.sectionProblem }}
     {{ partial "section-problem.html" . }}
     {{ end }}

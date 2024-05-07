@@ -207,6 +207,15 @@ params:
     buttonText: Check out Beta
     buttonLink: "https://docs.guac.sh/guac-use-cases/"
 
+  
+  sectionOpenssf:
+    title: GUAC is now an OpenSSF Incubating Project!
+    image: logos/OpenSSF-GUAC.png
+    subtitle: The Graph for Understanding Artifact Composition (GUAC) maintainers are pleased to announce the project has joined the Open Source Security Foundation (OpenSSF) as an Incubating Project.
+    buttonText: Learn More
+    buttonLink: "https://openssf.org/blog/2024/03/07/guac-joins-openssf-as-incubating-project/"
+
+
   sectionUniid:
     title: Try the GUAC Beta today!
     subtitle: Get started with GUAC today by taking a look at our GUAC Beta demos and tutorials!
