@@ -1,0 +1,28 @@
+{{- $sectionUniid := .Site.Params.sectionopenssf }}
+{{- $title         := index $sectionUniid "title" }}
+{{- $subtitle      := index $sectionUniid "subtitle" }}
+{{- $image         := index $sectionUniid "image" }}
+{{- $buttonText    := index $sectionUniid "buttontext" }}
+{{- $buttonLink    := index $sectionUniid "buttonlink" }}
+<section id="beta" class="section section-secondary is-medium anchor">
+  <div class="container">
+    <div class="columns">
+
+    <div class="column one-fifth">
+        {{- if $image }}
+        <figure class="image is-3by3">
+        <img src="{{ printf "/images/%s" $image | relURL }}" />
+        </figure>
+        {{- end}}
+    </div>
+    <div class="column">
+      <div class="dark-bg-text text-wrapper has-text-left">
+        <h2 class="title is-1 is-spaced">{{ $title }}</h2>
+        <h3 class="subtitle">{{ $subtitle }}</h3>
+        <a class="button cta is-large rounded tertiary-btn raised" href="{{ $buttonLink }}">
+          {{ $buttonText }}
+        </a>
+      </div>
+    </div></div>
+  </div>
+</section>
