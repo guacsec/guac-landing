@@ -13,11 +13,18 @@ Join the [GUAC public slack channel](https://openssf.slack.com/archives/C03U677Q
 
 If you are a new user to the OpenSSF Slack you can get an invite to join by going to [Get Involved](https://openssf.org/getinvolved/) and clicking on **"Join our Slack"**. After that you can join the [GUAC public slack channel](https://openssf.slack.com/archives/C03U677QD46).
 
-### Community Calls
+### Meetings
+
+#### Community Calls
 
 We host monthly community calls on the 3rd Thursday every month available for all to join. [Invitation](https://zoom-lfx.platform.linuxfoundation.org/meeting/97171675096?password=92eabdda-8061-487f-88b2-f74fdc2b87f2) can be found on the OpenSSF calendar.
 
-### Office Hours
+#### Maintainer Meeting
+
+The GUAC maintainers meet in public on Mondays at 11 AM Eastern.
+See the [OpenSSF calendar](https://www.google.com/calendar/event?eid=NjBrdDZ0MzVsbTRiNjNqbGhpajVxMXQ0MGJfMjAyNDA2MDNUMTUwMDAwWiBzNjN2b2VmaHA1aTlwZmx0YjVxNjduZ3Blc0Bn&ctz=America/New_York) for details.
+
+#### Office Hours
 
 We host GUAC office hours where you can come by and ask questions about using
 GUAC or contributing to the project. We hold office hours every 2 weeks and
