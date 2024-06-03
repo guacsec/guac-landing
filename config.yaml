@@ -36,7 +36,7 @@ params:
     button1text: Find out more
     button1link: "#problem"
     button2text: Try it out
-    button2link: "https://docs.guac.sh"
+    button2link: "https://docs.guac.sh/getting-started/"
     button3text: Now an OpenSSF incubating project!
     button3link: "https://openssf.org/blog/2024/03/07/guac-joins-openssf-as-incubating-project/"
 
