@@ -5,6 +5,28 @@ type: page
 include_footer: true
 ---
 
+## GUAC v0.7.0 released {#guac-v0.7.0}
+
+#### GUAC Maintainers
+
+##### June 4, 2024
+
+The GUAC maintainers are happy to announce the [release of GUAC v0.7.0](https://github.com/guacsec/guac/releases/tag/v0.7.0).
+This release includes several pagination features in order to improve the performance of large result sets from queries.
+Also new in v0.7.0, the collector supports reading from a directory inside an Amazon S3 bucket, in addition to the previously supported single file and whole-bucket reads.
+We’ve improved the parsing of CycloneDX files to improve how transitive dependencies are represented.
+And building off of the persistent backend added in v0.6.0, the new release adds support for automatic schema migrations.
+
+As always, we thank the community members who contributed to this release.
+We’d love to have *you* join the GUAC community.
+See the [Contributor Guide](https://github.com/guacsec/guac/blob/main/CONTRIBUTING.md) for how to get started, and register for an upcoming program below.
+
+* June 6 | 10am Pacific, 1pm Eastern - [Proactive Supply Chain Security with GUAC](https://zoom.us/webinar/register/6017147595543/WN_jxAYJJieTVel2bdwzd3Aag)
+* June 11 | 9am Pacific, 12pm Eastern - [GUAC 101: Dip into the Delicious World of Software Supply Chain Security](https://community.cncf.io/events/details/cncf-cncf-online-programs-presents-cloud-native-live-guac-101-dip-into-the-delicious-world-of-software-supply-chain-security/)
+* June 20 | 10am Pacific, 1pm Eastern - [GUAC Community Meeting](https://www.google.com/calendar/event?eid=Nm45cmhpbWc3Y2ZxMGVnZDk5a2M5MTFkbDJfMjAyNDA2MjBUMTcwMDAwWiBzNjN2b2VmaHA1aTlwZmx0YjVxNjduZ3Blc0Bn&ctz=America/New_York)
+
+---
+
 ## GUAC maintainer meetings now public
 
 #### GUAC Maintainers
