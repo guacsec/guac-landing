@@ -3,17 +3,24 @@
     <div class="columns">
       <div class="column is-centered-tablet-portrait">
         <h1 class="title section-title">{{ .Title }}</h1>
+        <div class="divider"></div>
+          <div class="content">
+            {{ range .Pages }}
+              <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
               {{ if gt (.Param "authors") 0 }}
               {{ $maxIndex := sub ( len .Params.authors ) 1 }}
               <p class="postAuthor">{{ range $index, $element := .Param "authors" }}{{ $element }}{{ if and ( ne $maxIndex 0 ) ( lt $index $maxIndex ) }}, {{end}}{{ end }}</p>
               {{ end }}
-          {{ if not .Date.IsZero }}
-          <p class="postDate">{{ .Date | time.Format "02 Jan 2006" }}</p>
-          {{ end }}
-        <h5 class="subtitle is-5 is-muted">{{ .Params.Subtitle }}</h5>
-        <div class="divider"></div>
-      </div>
-    </div>
+              {{ if not .Date.IsZero }}
+              <p class="postDate">{{ .Date | time.Format "02 Jan 2006" }}</p>
+              {{ end }}
+              <div>{{ .Content }}</div>
+              <hr>
+            {{ end }}
+          </div>
+        </div>
+     </div>
+   </div>
 
     <div class="content">
       {{ .Content }}
