@@ -200,13 +200,6 @@ params:
     title: Our Vision
     subtitle: GUAC (Graph for Understanding Artifact Composition) aims to fill in the gaps by ingesting software metadata, like SBOMs, and mapping out relationships between software. When you know how one piece of software affects another, you’ll be able to fully understand your software security position and act as needed. 
     image: illustrations/undraw/undraw_image_viewer_re_7ejc.svg
-
-  sectionBeta:
-    title: GUAC Beta is now open!
-    subtitle: In the Beta, you can run GUAC internally in your organization to take active steps to manage risk. Currently, you can query SLSA provenance, SBOMs, and OpenSSF Scorecards. In the future, GUAC aims to run as a public service where high-fidelity supply chain security metadata can be attained for every software ecosystem.
-    buttonText: Check out Beta
-    buttonLink: "https://docs.guac.sh/guac-use-cases/"
-
   
   sectionOpenssf:
     title: GUAC is now an OpenSSF Incubating Project!
