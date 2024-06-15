@@ -7,6 +7,10 @@ include_footer: true
 
 Welcome to the GUAC community!
 
+If you're looking for an issue to get starting on, check the ["good first issue" and "help wanted" tags in GitHub](https://github.com/search?q=user%3Aguacsec+label%3A%22good+first+issue%22+label%3A%22help+wanted%22++&type=Issues&ref=advsearch&l=&l=&state=open).
+If you don't know where to start, introduce yourself and we'll gladly help you find a place to start.
+See the [Contributor guide](https://github.com/guacsec/guac/blob/main/CONTRIBUTING.md) for more information.
+
 ### Community Slack Channel
 
 Join the [GUAC public slack channel](https://openssf.slack.com/archives/C03U677QD46) on the [OpenSSF slack](https://slack.openssf.org/).
@@ -17,12 +21,20 @@ If you are a new user to the OpenSSF Slack you can get an invite to join by goin
 
 #### Community Calls
 
-We host monthly community calls on the 3rd Thursday every month available for all to join. [Invitation](https://zoom-lfx.platform.linuxfoundation.org/meeting/97171675096?password=92eabdda-8061-487f-88b2-f74fdc2b87f2) can be found on the OpenSSF calendar.
+We host monthly community calls on the 3rd Thursday every month.
+Join us to talk about your use cases, discuss plans, and show your cool work with GUAC.
+
+* Time and location on the [OpenSSF Calendar](https://openssf.org/getinvolved/)
+* Past meeting recordings: [GUAC YouTube channel](https://www.youtube.com/watch?v=haTT5MonTA0&list=PL3pS03waoqbKrXyqvjSxj6Sr3AhmirwPf)
+* Past meeting notes: [guacsec/governance](https://github.com/guacsec/governance/tree/main/meetings/community)
 
 #### Maintainer Meeting
 
-The GUAC maintainers meet in public on Mondays at 11 AM Eastern.
-See the [OpenSSF calendar](https://www.google.com/calendar/event?eid=NjBrdDZ0MzVsbTRiNjNqbGhpajVxMXQ0MGJfMjAyNDA2MDNUMTUwMDAwWiBzNjN2b2VmaHA1aTlwZmx0YjVxNjduZ3Blc0Bn&ctz=America/New_York) for details.
+The GUAC maintainers meet weekly on Mondays to discuss project development and governance.
+
+* Time and location on the [OpenSSF Calendar](https://openssf.org/getinvolved/)
+* Past meeting recordings: [GUAC YouTube channel](https://www.youtube.com/watch?v=qp1EwXQXXcM&list=PL3pS03waoqbLf5yEkjABg8Gb4qB_vf1IU&pp=gAQBiAQB)
+* Past meeting notes: [guacsec/governance](https://github.com/guacsec/governance/tree/main/meetings/maintainers)
 
 #### Office Hours
 
