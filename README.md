@@ -12,6 +12,7 @@ This will run a local webserver (defaults to port 1313) where you can verify you
 ## Contributing
 
 The repository requires a [Developer Certificate of Origin](https://developercertificate.org/) (use the `-s` flag on `git commit`).
+See [contributing.md](contributing.md) for more information about contributing to GUAC.
 
 We do not have a style guide yet.
 Perhaps someday.
