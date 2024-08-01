@@ -211,7 +211,7 @@ params:
   sectionOpenssf:
     title: GUAC is now an OpenSSF Incubating Project!
     image: logos/OpenSSF-GUAC.png
-    subtitle: The Graph for Understanding Artifact Composition (GUAC) maintainers are pleased to announce the project has joined the Open Source Security Foundation (OpenSSF) as an Incubating Project.
+    subtitle: The Graph for Understanding Artifact Composition (GUAC) maintainers are pleased to announce the project has joined the Open Source Security Foundation (OpenSSF) as an Incubating Project in the Supply Chain Integrity Working Group.
     buttonText: Learn More
     buttonLink: "https://openssf.org/blog/2024/03/07/guac-joins-openssf-as-incubating-project/"
 
