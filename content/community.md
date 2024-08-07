@@ -9,7 +9,7 @@ Welcome to the GUAC community!
 
 If you're looking for an issue to get starting on, check the ["good first issue" and "help wanted" tags in GitHub](https://github.com/search?q=user%3Aguacsec+label%3A%22good+first+issue%22+label%3A%22help+wanted%22++&type=Issues&ref=advsearch&l=&l=&state=open).
 If you don't know where to start, introduce yourself and we'll gladly help you find a place to start.
-See the [Contributor guide](https://github.com/guacsec/guac/blob/main/CONTRIBUTING.md) for more information.
+See the [Contributing page](/contributing) for more information.
 
 ### Community Slack Channel
 
