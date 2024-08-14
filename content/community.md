@@ -2,7 +2,6 @@
 title: "Community"
 section: single
 type: page
-include_footer: true
 ---
 
 Welcome to the GUAC community!

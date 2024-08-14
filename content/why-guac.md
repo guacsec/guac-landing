@@ -2,7 +2,6 @@
 title: "Why GUAC?"
 section: single
 type: page
-include_footer: true
 ---
 
 ## The current problem with software supply chain security

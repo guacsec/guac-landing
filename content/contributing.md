@@ -2,7 +2,6 @@
 title: "Contributing to GUAC"
 section: single
 type: page
-include_footer: true
 ---
 
 Interested in making a contribution to GUAC?
