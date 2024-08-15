@@ -40,10 +40,10 @@ In addition, there are 2 non-code topic areas:
 
 - Documentation: Maintaining docs and examples
     - Repositories:
-        - guacsec/guac-docs
+        - [guacsec/guac-docs](https://github.com/guacsec/guac-docs)
 - Web and marketing: Maintain GUAC’s public presence
     - Repositories:
-        - guacsec/guac-landing
+        - [guacsec/guac-landing](https://github.com/guacsec/guac-landing)
         - (eventual social media accounts)
 
 The contribution ladder is summarized in the table below.
