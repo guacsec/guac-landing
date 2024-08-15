@@ -15,7 +15,8 @@
 
     {{ partial "single/single.html" . }}
 
-    {{ if .Params.include_footer }}
+    {{ $include_footer := .Params.include_footer | default .Site.Params.include_footer }}
+    {{ if $include_footer }}
     {{ partial "footer.html" . }}
     {{ end }}
 

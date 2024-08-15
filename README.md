@@ -32,7 +32,6 @@ This is the date used by Hugo to sort the posts.
 *If you use a date in the future, it will not be listed on the blog page.*
 * `authors` (optional): An array of names to list as the author.
 If you only have one author, it still needs to be quoted and in square brackets.
-* `include_footer`: Something we shouldn't have to add, but do for now.
 
 A complete header looks something like:
 
@@ -41,7 +40,6 @@ A complete header looks something like:
 title: This is a great blog post
 date: 2023-04-13
 authors: ["Ben Cotton", "Jane Doe", "Blogger McBlogface"]
-include_footer: true
 ---
 ```
 
