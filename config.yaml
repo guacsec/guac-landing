@@ -68,13 +68,13 @@ params:
     url: /why-guac
   - title: Community
     url: /community
-  - title: Blogs
-    url: /blogs
+  - title: Blog
+    url: /blog
   - title: Demos
     url: https://docs.guac.sh/guac-use-cases/
   - title: Docs
     url: https://docs.guac.sh/
-  - title: Github
+  - title: GitHub
     url: https://github.com/guacsec/guac
     button: true
 
@@ -199,7 +199,7 @@ params:
   sectionGithub:
     title: What's next?
     subtitle: Learn more about GUAC
-    button1Text: Github
+    button1Text: GitHub
     button1Link: https://github.com/guacsec/guac
     button2Text: Demos
     button2Link: https://docs.guac.sh/guac-use-cases/
