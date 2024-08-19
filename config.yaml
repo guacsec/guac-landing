@@ -11,10 +11,6 @@ outputs:
   section:
     - html
     - rss
-# Disables warnings
-disableKinds:
-- taxonomy
-- taxonomyTerm
 services:
   rss:
     limit: 10
@@ -24,6 +20,7 @@ markup:
       unsafe: true # Allows you to write raw html in your md files
 
 params:
+  date_format: "2006-01-02"
   include_footer: true
   # Open graph allows easy social sharing. If you don't want it you can set it to false or just delete the variable
   openGraph: true
