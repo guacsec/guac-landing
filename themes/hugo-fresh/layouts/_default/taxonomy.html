@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+  <head>
+    {{ partial "meta.html" . }}
+    <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
+    {{ partial "css.html" . }}
+  </head>
+  <body>
+    <!-- Preloader -->
+    <div id="preloader">
+      <div id="status"></div>
+    </div>
+
+    {{ partial "navbar.html" . }}
+    {{ partial "navbar-clone.html" . }}
+
+    <section class="section is-medium">
+      <div class="container">
+        <div class="columns">
+          <div class="column is-centered-tablet-portrait">
+
+            <h1 class="title section-title">{{ .Title }} posts</h1>
+              {{ .Content }}
+              {{ range .Pages }}
+                <p>{{ .Date.Format .Site.Params.date_format }} — <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></p>
+              {{ end }}
+
+          </div>
+        </div>
+      </div>
+    </section>
+
+    {{ $include_footer := .Params.include_footer | default .Site.Params.include_footer }}
+    {{ if $include_footer }}
+    {{ partial "footer.html" . }}
+    {{ end }}
+
+
+    <!-- Back To Top Button -->
+    <div id="backtotop"><a href="#"></a></div>
+
+    {{ if .Params.sidebar }}
+    {{ partial "single/sidebar.html" . }}
+    {{ end }}
+
+    {{ partial "javascript.html" . }}
+
+  </body>
+</html>

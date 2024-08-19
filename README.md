@@ -31,7 +31,11 @@ Other formats *might* work, but why take chances?)
 This is the date used by Hugo to sort the posts.
 *If you use a date in the future, it will not be listed on the blog page.*
 * `authors` (optional): An array of names to list as the author.
-If you only have one author, it still needs to be quoted and in square brackets.
+If you only have one author, it still needs to be quoted and in square brackets or in a yaml list format.
+* `tags` (optional): An array of tags to use for the post.
+Prefer existing tags whenever possible.
+When in doubt, don't add a tag.
+An incomplete list of tags we use is given below.
 
 A complete header looks something like:
 
@@ -40,6 +44,9 @@ A complete header looks something like:
 title: This is a great blog post
 date: 2023-04-13
 authors: ["Ben Cotton", "Jane Doe", "Blogger McBlogface"]
+tags:
+  - releases
+  - events
 ---
 ```
 
@@ -47,10 +54,19 @@ Below the header, write the content.
 For ease of writing, use Markdown by default.
 You may use HTML when needed.
 
+#### Tags
+
+This is a partial list of tags we use on blog posts.
+If you use a new tag, add it here.
+
+* *community*: Posts about the community itself
+* *docs*: Posts about the documentation
+* *events*: Conferences, webinars,etc
+* *meetings*: Community Meetings and Maintainers Meetings
+* *releases*: Release announcements
+
 ## Layout
 
 * config.yml — Site configuration and main page content
 * content/blog/* — Blog posts
 * content/* — Other pages
-
-
