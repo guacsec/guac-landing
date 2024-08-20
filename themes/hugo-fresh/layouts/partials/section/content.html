@@ -18,6 +18,7 @@
               <p class="postDate">{{ .Date | time.Format "02 Jan 2006" }}</p>
               {{ end }}
               <div>{{ .Content }}</div>
+              {{ partial "taglist.html" . }}
               <hr>
             {{ end }}
           </div>
