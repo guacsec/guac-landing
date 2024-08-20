@@ -2,7 +2,9 @@
 title: August 2024 Community Meeting
 date: 2024-08-14
 authors: ["Ben Cotton"]
-include_footer: true
+tags:
+  - community
+  - meetings
 ---
 
 Join the GUAC community Thursday at 1PM Eastern (1700 UTC) for the [August Community Meeting](https://zoom-lfx.platform.linuxfoundation.org/meeting/97171675096?password=92eabdda-8061-487f-88b2-f74fdc2b87f2).

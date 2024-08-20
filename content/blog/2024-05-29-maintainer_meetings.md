@@ -3,7 +3,9 @@ title: GUAC maintainer meetings now public
 date: 2024-05-29
 layout: post
 authors: ["GUAC Maintainers"]
-include_footer: true
+tags:
+  - community
+  - meetings
 ---
 
 In the interests of a transparent open source community, the weekly GUAC Maintainer meetings are now public.

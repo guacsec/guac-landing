@@ -2,7 +2,9 @@
 title: Help GUAC's docs rock!
 date: 2024-08-09
 authors: ["Ben Cotton"]
-include_footer: true
+tags:
+  - community
+  - docs
 ---
 
 Calling all docs writers: we need *you*!
