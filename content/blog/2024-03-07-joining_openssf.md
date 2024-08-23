@@ -2,7 +2,8 @@
 title: Graph for Understanding Artifact Composition (GUAC) Joins OpenSSF as Incubating Project
 date: 2024-03-07
 authors: ["GUAC Maintainers"]
-include_footer: true
+tags:
+  - community
 ---
 
 The GUAC maintainers are pleased to announce the project has joined the Open Source Security Foundation (OpenSSF) as an Incubating Project.

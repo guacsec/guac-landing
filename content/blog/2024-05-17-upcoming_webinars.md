@@ -2,7 +2,8 @@
 title: Upcoming OpenSSF and CNCF webinars
 authors: ["Ben Cotton"]
 date: 2024-05-17
-inclue_footer: true
+tags:
+  - events
 ---
 Join us for two upcoming webinars to learn more about GUAC.
 

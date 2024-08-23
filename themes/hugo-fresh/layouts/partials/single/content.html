@@ -19,9 +19,7 @@
       {{ .Content }}
     </div>
 
-    {{ if gt (.Param "tags") 0 }}
-      {{ $maxIndex := sub ( len .Params.tags ) 1 }}
-      <p class="tagList">Tags: {{ range $index, $tag := .Param "tags"  }}<a href="/tags/{{ $tag }}">{{ $tag }}</a>{{ if and ( ne $maxIndex 0 ) ( lt $index $maxIndex ) }} | {{ end }}{{ end }}</p>
-    {{ end }}
+  {{ partial "taglist.html" . }}
+  
   </div>
 </section>

@@ -3,7 +3,8 @@ title: GUAC mailing lists moving to OpenSSF
 layout: post
 authors: ["Ben Cotton"]
 date: 2024-06-21
-include_footer: true
+tags:
+  - community
 ---
 
 The GUAC mailing lists are moving from Google Groups to the OpenSSF list server.
