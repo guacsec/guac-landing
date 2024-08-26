@@ -37,14 +37,9 @@ The GUAC maintainers meet weekly on Mondays to discuss project development and g
 
 #### Office Hours
 
-We host GUAC office hours where you can come by and ask questions about using
-GUAC or contributing to the project. We hold office hours every 2 weeks and
-alternate between EMEA and NA friendly timing. 
-Refer to the [OpenSSF calendar](https://openssf.org/getinvolved/) or get an invite
-to the meetings at the following links:
-
-- [EMEA Office Hours](https://zoom-lfx.platform.linuxfoundation.org/meeting/98129525584?password=db7b7e22-e1eb-4936-962c-2840475ab11c)
-- [NA Office Hours](https://zoom-lfx.platform.linuxfoundation.org/meeting/99570351921?password=6537e2c3-4631-4d5f-9632-3156c9b2f5cb)
+We host informal GUAC office hours where you can come by and ask questions about using
+GUAC or contributing to the project. We hold office hours on alternating Fridays.
+See the [OpenSSF calendar](https://openssf.org/getinvolved/) for times and [join us on Zoom](https://zoom-lfx.platform.linuxfoundation.org/meeting/99570351921?password=6537e2c3-4631-4d5f-9632-3156c9b2f5cb).
 
 ### Mailing list
 
