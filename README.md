@@ -8,6 +8,7 @@ You must have [Hugo](https://gohugo.io/) installed.
 
 To build the site, run `hugo server -D`.
 This will run a local webserver (defaults to port 1313) where you can verify your changes.
+If you are checking a future-dated blog post, add `--buildFuture` to the `hugo` command.
 
 ## Contributing
 
