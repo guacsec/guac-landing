@@ -10,6 +10,8 @@ Software supply chain attacks are on the rise and it’s hard to know what your 
 Many tools are available to help you generate software bills of materials (SBOMs), signed attestations, and vulnerability reports, but they stop there, leaving you to figure out how they all fit together.
 GUAC provides an aggregated, queryable view across your whole software supply chain, not just one SBOM at a time.
 
+To see how Guidewire Software stays ahead of threats, [read the case study](/static/guidewire_guac_casestudy.pdf).
+
 ## From data to knowledge
 
 Consider the [DIKW pyramid](https://en.wikipedia.org/wiki/DIKW_pyramid).
