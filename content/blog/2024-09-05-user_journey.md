@@ -12,7 +12,7 @@ We know GUAC is capable of addressing many problems people have securing their s
 To do that, we want to talk to you.
 We'd like to have a short call with you if you:
 
-* Have read the GUAC landing page (guac.sh)
+* Have read the [GUAC landing page](https://guac.sh)
 * Are NOT a current power user of GUAC
 * Tried to go through some of the GUAC demos (optional)
 
