@@ -63,6 +63,7 @@ If you use a new tag, add it here.
 * *community*: Posts about the community itself
 * *docs*: Posts about the documentation
 * *events*: Conferences, webinars,etc
+* *guac-does-that*: GUAC use cases
 * *guac-visualizer*: Posts about the experimental GUAC Visualizer
 * *meetings*: Community Meetings and Maintainers Meetings
 * *releases*: Release announcements
