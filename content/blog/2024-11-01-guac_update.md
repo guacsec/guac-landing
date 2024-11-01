@@ -22,7 +22,7 @@ Thanks to the following people for making their first contributions in October
 
 * [Abhiraj Adhikary](https://github.com/abhirajadhikary06): [guac-docs#169](https://github.com/guacsec/guac-docs/pull/169)
 * [Robbie Cronin](https://github.com/robert-cronin): several contributions to GUAC and guac-docs
-* [Martin W. Kirst](maki@bitkings.de): [guac#2207](https://github.com/guacsec/guac/pull/2207)
+* [Martin W. Kirst](https://github.com/nitram509): [guac#2207](https://github.com/guacsec/guac/pull/2207)
 * [Rishikeshav Ravichandran](https://github.com/iblameRishi): [guac-docs#157](https://github.com/guacsec/guac-docs/pull/157)
 
 ## Releases
