@@ -1,0 +1,8 @@
+# Configuration file for zizmor GitHub action checker
+rules:
+  template-injection:
+    ignore:
+      # Ignore the use of `runner.temp`, as we believe it to be safe
+      - hugo.yaml:34:9
+      - hugo.yaml:51:9
+
