@@ -35,12 +35,6 @@ The GUAC maintainers meet weekly on Mondays to discuss project development and g
 * Past meeting recordings: [GUAC YouTube channel](https://www.youtube.com/watch?v=qp1EwXQXXcM&list=PL3pS03waoqbLf5yEkjABg8Gb4qB_vf1IU&pp=gAQBiAQB)
 * Past meeting notes: [guacsec/governance](https://github.com/guacsec/governance/tree/main/meetings/maintainers)
 
-#### Office Hours
-
-We host informal GUAC office hours where you can come by and ask questions about using
-GUAC or contributing to the project. We hold office hours on alternating Fridays.
-See the [OpenSSF calendar](https://openssf.org/getinvolved/) for times and [join us on Zoom](https://zoom-lfx.platform.linuxfoundation.org/meeting/99570351921?password=6537e2c3-4631-4d5f-9632-3156c9b2f5cb).
-
 ### Mailing list
 
 Join the [GUAC list on OpenSSF](https://lists.openssf.org/g/GUAC) for announcements and discussion.
