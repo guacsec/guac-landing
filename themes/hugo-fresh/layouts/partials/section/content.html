@@ -8,7 +8,10 @@
         {{ end }}
         <div class="divider"></div>
           <div class="content">
-            {{ range .Pages }}
+            {{ $pages := .Pages}}
+            {{ $paginator := .Paginate $pages.ByDate.Reverse }}
+
+            {{ range $paginator.Pages }}
               <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
               {{ if gt (.Param "authors") 0 }}
               {{ $maxIndex := sub ( len .Params.authors ) 1 }}
@@ -21,6 +24,7 @@
               {{ partial "taglist.html" . }}
               <hr>
             {{ end }}
+            {{ template "_internal/pagination.html" . }}
           </div>
         </div>
      </div>
