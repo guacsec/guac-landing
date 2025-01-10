@@ -1,5 +1,5 @@
 ---
-title: "GUAC Update: October 2024"
+title: "GUAC Update: September 2024"
 layout: post
 authors: 
   - Ben Cotton
