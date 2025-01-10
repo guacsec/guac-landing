@@ -41,6 +41,7 @@ In addition, there are 2 non-code topic areas:
 - Documentation: Maintaining docs and examples
     - Repositories:
         - [guacsec/guac-docs](https://github.com/guacsec/guac-docs)
+        - [guacsec/guac-data](https://github.com/guacsec/guac-data)
 - Web and marketing: Maintain GUAC’s public presence
     - Repositories:
         - [guacsec/guac-landing](https://github.com/guacsec/guac-landing)
@@ -51,10 +52,10 @@ All software and non-code topic areas use this latter.
 
 | Role | Responsibilities | Requirements | Privileges | GitHub access level
 | ---- | ---------------- | ------------ | ---------- | -------------------
-| [Community Participant](#community-participant) | Follow [OpenSSF Code of Conduct](https://openssf.org/community/code-of-conduct/) | N/A | N/A | Read (default) 
-| [Reviewer](#reviewer) | Review contributions from other members | Prove technical expertise in at least one GUAC topic area | Can approve PRs | Write 
+| [Community Participant](#community-participant) | Follow [OpenSSF Code of Conduct](https://openssf.org/community/code-of-conduct/) | N/A | N/A | Read (default)
+| [Reviewer](#reviewer) | Review contributions from other members | Prove technical expertise in at least one GUAC topic area | Can approve PRs | Write
 | [Owner](#owner) | Set direction and priorities for topic area. Approval of contributions | Deep technical expertise in topic area. Proven record of reviews and authorship. | Invitation to owner&maintainers only channels | Write
-| [Maintainer](#maintainer) | Set direction and priorities of project. Participate in weekly syncs | Expertise in 3 out of the 5 topic areas | (almost) complete repository access | Maintain            
+| [Maintainer](#maintainer) | Set direction and priorities of project. Participate in weekly syncs | Expertise in 3 out of the 5 topic areas | (almost) complete repository access | Maintain
 
 ### Ladder levels
 
@@ -132,7 +133,9 @@ GUAC contributors are happy to help you advance along the contributor ladder!
 |-|-|-|
 | [dejanb](https://github.com/dejanb) | Ingestion | [issues/1885](https://github.com/guacsec/guac/issues/1885) |
 | [mdeicas](https://github.com/mdeicas) | API | [issues/1885](https://github.com/guacsec/guac/issues/1885) |
-
+| [robert-cronin](https://github.com/robert-cronin) | CLI | [issues/2361](https://github.com/guacsec/guac/issues/2361) |
+| [robert-cronin](https://github.com/robert-cronin) | Ingestion | [issues/2361](https://github.com/guacsec/guac/issues/2361) |
+| [nathannaveen](https://github.com/nathannaveen) | CLI | [issues/2361](https://github.com/guacsec/guac/issues/2361) |
 
 ### Owners list
 
@@ -140,6 +143,7 @@ GUAC contributors are happy to help you advance along the contributor ladder!
 |-|-|-|
 | [mrizzi](https://github.com/mrizzi) | [Backends (ent)](https://github.com/guacsec/guac/tree/4012842fab5d738f9bebf03f0cb44fc7ce39438b/pkg/assembler/backends/ent) | [issues/1310](https://github.com/guacsec/guac/issues/1310) |
 | [funnelfiasco](https://github.com/funnelfiasco) | Web & Marketing | [governance#15](https://github.com/guacsec/governance/issues/15)
+| [funnelfiasco](https://github.com/funnelfiasco) | Docs | [issues/2361](https://github.com/guacsec/guac/issues/2361)
 
 
 ### Maintainers
