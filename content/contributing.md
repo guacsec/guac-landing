@@ -136,6 +136,7 @@ GUAC contributors are happy to help you advance along the contributor ladder!
 | [robert-cronin](https://github.com/robert-cronin) | CLI | [issues/2361](https://github.com/guacsec/guac/issues/2361) |
 | [robert-cronin](https://github.com/robert-cronin) | Ingestion | [issues/2361](https://github.com/guacsec/guac/issues/2361) |
 | [nathannaveen](https://github.com/nathannaveen) | CLI | [issues/2361](https://github.com/guacsec/guac/issues/2361) |
+| [funnelfiasco](https://github.com/funnelfiasco) | Front-end | [governance#57](https://github.com/guacsec/governance/issues/57)
 
 ### Owners list
 
