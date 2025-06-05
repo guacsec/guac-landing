@@ -135,13 +135,13 @@ The [guac-triage team](https://github.com/orgs/guacsec/teams/guac-triage) provid
 
 This is meant to allow general community participants to play an active role in areas such as community engagement, project upkeep and other areas which may not part of the contributor ladder.
 
-The triage team will have "triage" access to all repos in the guacsec organization and is meant to create a lightweight process to enable community participants to play more active roles.
+The triage team will have "triage" access to all repos in the `guacsec` organization and is meant to create a lightweight process to enable community participants to play more active roles.
 
 #### Moving in and out of the triage team
 
 ##### Becoming part of the triage team
 
-A maintainer sponsor is required to become part of the triage team. Any maintainer can spnosor a community participant to be part of the triage team.
+A maintainer sponsor is required to become part of the triage team. Any maintainer can sponsor a community participant to be part of the triage team.
 
 This can be done by proposing a change in the [Triage team list](#triage-team-list) section.
 
