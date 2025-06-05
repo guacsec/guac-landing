@@ -125,6 +125,30 @@ For highly active contributors that completely step away from the project, we wi
 GUAC contributors are happy to help you advance along the contributor ladder!
 
 
+### Non-ladder levels
+
+We recognize that the community contributor ladder is not for everyone and there are community participants that are active and want to play a bigger role without necessarily wanting to go deep into a certain area.
+
+#### Triage team
+
+The [guac-triage team](https://github.com/orgs/guacsec/teams/guac-triage) provides a way for community participants who are active to help out with triage activity without being part of a specific domain of the project contributor ladder.
+
+This is meant to allow general community participants to play an active role in areas such as community engagement, project upkeep and other areas which may not part of the contributor ladder.
+
+The triage team will have "triage" access to all repos in the `guacsec` organization and is meant to create a lightweight process to enable community participants to play more active roles.
+
+#### Moving in and out of the triage team
+
+##### Becoming part of the triage team
+
+A maintainer sponsor is required to become part of the triage team. Any maintainer can sponsor a community participant to be part of the triage team.
+
+This can be done by proposing a change in the [Triage team list](#triage-team-list) section.
+
+##### Stepping down
+
+If you are a member of the triage team and no longer want to be part of it, please open up a PR against this file to remove your name from the [Triage team list](#triage-team-list) section.
+
 ## Contacts
 
 ### Reviewers list
@@ -150,3 +174,10 @@ GUAC contributors are happy to help you advance along the contributor ladder!
 ### Maintainers
 
 See the [MAINTAINERS file](https://github.com/guacsec/guac/blob/main/MAINTAINERS) for a list of current maintainers.
+
+### Triage team list
+
+| Member | Sponsor |
+|-|-|
+| [funnelfiasco](https://github.com/funnelfiasco) | [lumjjb](https://github.com/lumjjb) |
+
