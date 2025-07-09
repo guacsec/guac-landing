@@ -18,17 +18,6 @@ If you are a new user to the OpenSSF Slack you can get an invite to join by goin
 
 ### Meetings
 
-#### Community Calls
-
-We host monthly community calls on the 3rd Thursday every month.
-Join us to talk about your use cases, discuss plans, and show your cool work with GUAC.
-
-* Time and location on the [OpenSSF Calendar](https://openssf.org/getinvolved/)
-* Past meeting recordings: [GUAC YouTube channel](https://www.youtube.com/watch?v=haTT5MonTA0&list=PL3pS03waoqbKrXyqvjSxj6Sr3AhmirwPf)
-* Past meeting notes: [guacsec/governance](https://github.com/guacsec/governance/tree/main/meetings/community)
-
-#### Maintainer Meeting
-
 The GUAC maintainers meet weekly on Mondays to discuss project development and governance.
 
 * Time and location on the [OpenSSF Calendar](https://openssf.org/getinvolved/)

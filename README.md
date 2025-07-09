@@ -65,7 +65,7 @@ If you use a new tag, add it here.
 * *events*: Conferences, webinars,etc
 * *guac-does-that*: GUAC use cases
 * *guac-visualizer*: Posts about the experimental GUAC Visualizer
-* *meetings*: Community Meetings and Maintainers Meetings
+* *meetings*: Weekly Maintainers Meetings and other meetings
 * *releases*: Release announcements
 
 ## Layout
