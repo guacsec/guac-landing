@@ -42,6 +42,8 @@ Everyone is welcome to post.
 
 ### Governance
 
-- [Governance document](https://github.com/guacsec/guac/blob/main/GOVERNANCE.md)
+- [Governance document](https://github.com/guacsec/governance/blob/main/GOVERNANCE.md)
 - [Contributor guide](https://github.com/guacsec/guac/blob/main/CONTRIBUTING.md)
+- [Code of conduct](https://openssf.org/community/code-of-conduct/)
+- [Linux Foundation antitrust policy](https://www.linuxfoundation.org/legal/antitrust-policy)
 - [Apache 2.0 License](https://github.com/guacsec/guac/blob/main/LICENSE)
