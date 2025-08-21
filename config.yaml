@@ -40,91 +40,69 @@ params:
     # Main hero title
     title: Know your software supply chain
     # Hero subtitle (optional)
-    subtitle: GUAC gives you directed, actionable insights into the security of your software supply chain.
-    # Button text
-    button1text: Find out more
-    button1link: "/why-guac"
-    button2text: Try it out
-    button2link: "https://docs.guac.sh/getting-started/"
-    button3text: Now an OpenSSF incubating project!
-    button3link: "https://openssf.org/blog/2024/03/07/guac-joins-openssf-as-incubating-project/"
-
+    subtitle: GUAC projects give you directed, actionable insights into the security of your software supply chain.
 
     # Hero image (from static/images/___)
-    #image: illustrations/worker.svg
     image: logos/guac-logo.png
 
-    # Footer logos (from static/images/logos/clients/___.svg)
-    # clientlogos:
-    # - systek
-    # - tribe
-    # - kromo
-    # - infinite
-    # - gutwork
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
-  - title: Why GUAC?
-    url: /why-guac
+  - title: GUAC
+    url: /guac
+  - title: Trustify
+    url: /trustify
   - title: Community
     url: /community
+  - title: Contributing
+    url: /contributing
   - title: Blog
     url: /blog
-  - title: Demos
-    url: https://docs.guac.sh/guac-use-cases/
   - title: Docs
     url: https://docs.guac.sh/
   - title: GitHub
-    url: https://github.com/guacsec/guac
+    url: https://github.com/guacsec/
     button: true
 
+  sectionProjects:
+    title: GUAC projects 
+  
+    coreProjects:
+    - title: GUAC
+      logo: guac-logo.png
+      text: GUAC (Graph for Understanding Artifact Composition) aims to fill in the gaps by ingesting software metadata, like SBOMs, and mapping out relationships between software. When you know how one piece of software affects another, you’ll be able to fully understand your software security position and act as needed.
+      url: /guac
+    - title: Trustify
+      logo: trustify.png
+      text: The Trustify project is a collection of software components that enables you to store and retrieve Software Bill of Materials (SBOMs), and advisory documents. Developers can use this information to learn about common security vulnerabilities and dependency changes within their software supply chain.
+      url: /trustify
 
-  # - title: Dropdown
-  #   sublinks:
-  #   - title: Dropdown item
-  #     url: /
-  #   - title: Dropdown item
-  #     url: /
-  #   - title: Dropdown item
-  #     url: /
-  # - title: Log in
-  #   url: /
-  # - title: Sign up
-  #   url: /
-  #   button: true
-  #sidebar:
-  #  # Logo (from /images/logos/___.svg)
-  #  logo: fresh-square
-  #  sections:
-  #  - title: User
-  #    icon: user
-  #    links:
-  #    - text: Profile
-  #      url: /
-  #    - text: Account
-  #      url: /
-  #    - text: Settings
-  #      url: /
-  #  - title: Messages
-  #    icon: envelope
-  #    links:
-  #    - text: Inbox
-  #      url: /
-  #    - text: Compose
-  #      url: /
-  #  - title: Images
-  #    icon: image
-  #    links:
-  #    - text: Library
-  #      url: /
-  #    - text: Upload
-  #      url: /
-  #  - title: Settings
-  #    icon: cog
-  #    links:
-  #    - text: User settings
-  #      url: /
-  #    - text: App settings
-  #      url: /
+    additionalProjects:
+    - title: sw-id-core
+      url: https://github.com/guacsec/sw-id-core
+
+  sectionCollab:
+    title: In Open Source collaboration with
+    orgsBig:
+    - name: Google
+      logo: google.png
+      # <!-- logos at images/logos/ -->
+      link: https://google.com/
+    - name: Kusari
+      logo: kusari.svg
+      link: https://kusari.dev
+    - name: Red Hat
+      logo: red-hat.png
+      link: https://redhat.com
+    orgs:
+    - name: Purdue University
+      link: https://www.purdue.edu/
+      logo: purdue.png
+    - name: Citi
+      link: https://www.citi.com/
+      logo: citi.png
+    - name: and many open source contributors...
+      link: https://github.com/guacsec/guac/contributors
+
   section1:
     title: How GUAC can help you 
     subtitle: These are just a few examples of insights that GUAC can give you to improve your software security posture
@@ -156,119 +134,9 @@ params:
       url: https://github.com/guacsec/guac
       buttonText: Eat GUAC
 
-
-
-  # section2:
-  #   title: What does GUAC do?
-  #   subtitle: ""
-  #   features:
-  #   - title: Establishes connections between your software catalog
-  #     icon: illustrations/undraw/undraw_share_link_re_54rx.svg
-  #   - title: Unveils gaps in the software supply chain data using other data sources
-  #     icon: illustrations/undraw/undraw_personal_data_re_ihde.svg
-  #   - title: Identifies threats in your supply chain and provides a path to remediation
-  #     icon: illustrations/undraw/undraw_software_engineer_re_tnjc.svg
-
-  sectionCollab:
-    title: In Open Source collaboration with
-    others:
-    - text: and other open source contributors...
-      link: https://github.com/guacsec/guac/graphs/contributors
-    orgsBig:
-    - name: Google
-      logo: google.png
-      # <!-- logos at images/logos/ -->
-      link: https://google.com/
-    - name: Kusari
-      logo: kusari.svg
-      link: https://kusari.dev
-    orgs:
-    - name: Purdue University
-      link: https://www.purdue.edu/
-      logo: purdue.png
-    - name: Citi
-      link: https://www.citi.com/
-      logo: citi.png
-    - name: and many open source contributors...
-      link: https://github.com/guacsec/guac/contributors
-
-
-
-
-  sectionGithub:
-    title: What's next?
-    subtitle: Learn more about GUAC
-    button1Text: GitHub
-    button1Link: https://github.com/guacsec/guac
-    button2Text: Demos
-    button2Link: https://docs.guac.sh/guac-use-cases/
-
-  sectionVision:
-    title: Our Vision
-    subtitle: GUAC (Graph for Understanding Artifact Composition) aims to fill in the gaps by ingesting software metadata, like SBOMs, and mapping out relationships between software. When you know how one piece of software affects another, you’ll be able to fully understand your software security position and act as needed. 
-    image: illustrations/undraw/undraw_image_viewer_re_7ejc.svg
-  
   sectionOpenssf:
-    title: GUAC is now an OpenSSF Incubating Project!
-    image: logos/OpenSSF-GUAC.png
+    title: GUAC is an OpenSSF Incubating Project!
+    image: logos/openssf-incubating.png
     subtitle: The Graph for Understanding Artifact Composition (GUAC) maintainers are pleased to announce the project has joined the Open Source Security Foundation (OpenSSF) as an Incubating Project in the Supply Chain Integrity Working Group.
     buttonText: Learn More
-    buttonLink: "https://openssf.org/blog/2024/03/07/guac-joins-openssf-as-incubating-project/"
-
-
-  sectionUniid:
-    title: Try the GUAC Beta today!
-    subtitle: Get started with GUAC today by taking a look at our GUAC Beta demos and tutorials!
-    buttonText: Check out our demos
-    buttonLink: "https://docs.guac.sh/guac-use-cases/"
-
-
-  section4:
-    title: What people are saying about GUAC!
-    subtitle: Hear what our community and partners have to say about GUAC!
-    clients:
-    - name: Dejan Bosanac
-      quote: With the growing number of software supply chain security (SSCS) data, tools that allow us to find relevant information are crucial. Guac, providing graph representation of software packages, dependencies, vulnerabilities, attestations, etc. is a great tool for use cases in this domain. With mechanisms to ingest and certify data from various sources and GraphQL API to later query those data, we see it as a good foundation for our current and future SSCS efforts. Being a true open source initiative with a welcoming community is just a plus.  
-      job: Engineer at Red Hat
-      img: 3
-    - name: Hemil Kadakia
-      quote: At Yahoo, we have found immense value and significant efficiency by utilizing the open source project GUAC. GUAC has allowed us to streamline our processes and increase efficiency in a way that was not possible before. It allows us to ingest large number of SBOMs and also provides an interface to visualize the current state of images & packages used at Yahoo in real time. We look forward to continuing to utilize GUAC and contribute to its growth in any way we can.
-      job: Sr. Mgr. Software Dev Engineering, Paranoids, Yahoo.
-      img: 3
-    - name: Sean Terretta
-      quote: As the CTO of ClearAlpha, I can't recommend GUAC enough for companies looking to boost their software security. GUAC's innovative approach to software supply chain security helps uncover hidden gaps and threats as we’re downloading dependencies and building apps, making it a perfect fit for our “solve it earlier” mindset at ClearAlpha. It also lines up with our commitment to transparency, open-source principles, and continuous learning. GUAC works well in teams practicing the rugged software manifesto, focusing on strong coding practices, constant testing, and automated tools to enhance security. Plus, its ability to trace risks back to their source aligns with our proactive risk awareness goals, enabling companies to spot and tackle potential issues early on. GUAC is just a fantastic tool to help any organization improve their software security with principles we all should value. If you're a tech founder, you'll definitely want to have GUAC on your team!
-      job: CTO at ClearAlpha
-      img: 3
-    - name: Anoop Gopalakrishnan
-      quote: GUAC came along as an open-source software at the right time helping us pivot away from building a bespoke solution and involving ourselves with the best minds behind the project. The value we see with GUAC is its flexibility and plugin architecture leading up to helping the users achieve compliance at different levels. The biggest benefit of GUAC has been producing it in the open with a widespread  community behind it, from Google to Kusari and others. As the industry progresses, the threats to the software supply chain will become more complex, and relying on a tool backed by people with many years of experience in the area would make things easier for Guidewire to consume.
-      job: Vice President Of Engineering at Guidewire Software
-      img: 3
-
-  section5: true
-  footer:
-    # Logo (from /images/logos/___)
-    logo: guac-logo-squareish.png
-    # Social Media Title
-    socialmediatitle: Follow GUAC
-    # # Social media links (GitHub, Twitter, etc.). All are optional.
-    socialmedia:
-    #   # Icons are from Font Awesome
-      - link: /blog/index.xml
-        icon: rss
-      - link: https://youtube.com/@guacsec
-        icon: youtube
-      - link: https://github.com/guacsec
-        icon: github
-    quicklinks:
-      column1:
-        title: "Community"
-        titleLink: /community
-      column2:
-        title: "Blogs"
-        titleLink: /blogs
-      column3:
-        title: "Demos"
-        titleLink: https://docs.guac.sh/guac-use-cases/
-      column4:
-        title: "Docs"
-        titleLink: https://docs.guac.sh/
+    buttonLink: "https://openssf.org/projects/guac/"
