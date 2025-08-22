@@ -3,50 +3,17 @@
     {{ partial "hero.html" . }}
     {{ end }}
 
+    {{ if .Site.Params.sectionProjects }}
+    {{ partial "section-projects.html" . }}
+    {{ end }}
+
     {{ if .Site.Params.sectionOpenssf }}
     {{ partial "section-openssf.html" . }}
-    {{ end }}
-
-    {{ if .Site.Params.sectionProblem }}
-    {{ partial "section-problem.html" . }}
-    {{ end }}
-
-    {{ if .Site.Params.section1 }}
-    {{ partial "section1.html" . }}
-    {{ end }}
-
-
-    {{ if .Site.Params.section2 }}
-    {{ partial "section2.html" . }}
-    {{ end }}
+    {{ end }} 
 
     {{ if .Site.Params.sectionCollab }}
     {{ partial "section-collab.html" . }}
     {{ end }}
-
-    {{ if .Site.Params.sectionVision }}
-    {{ partial "section-vision.html" . }}
-    {{ end }}
-
-    {{ if .Site.Params.section4 }}
-    {{ partial "section4.html" . }}
-    {{ end }}
-
-<!--
-    {{ if .Site.Params.section5 }}
-    {{ partial "section5.html" . }}
-    {{ end }}
-
-    {{ if .Site.Params.sectionUniid}}
-    {{ partial "section-uniid.html" . }}
-    {{ end }}
-
--->
-    {{ if .Site.Params.sectionGithub}}
-    {{ partial "section-github.html" . }}
-    {{ end }}
-
-    
 
     {{ if .Site.Params.footer }}
     {{ partial "footer.html" . }}

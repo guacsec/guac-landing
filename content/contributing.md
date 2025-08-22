@@ -24,6 +24,9 @@ This is to enforce [a Developer Certificate of Origin (DCO)](https://wiki.linuxf
 
 This contributor ladder outlines different contributor roles within the project, along with
 responsibilities and privileges that come with them.
+Each core project (as defined in the [project governance](https://github.com/guacsec/guac/blob/main/GOVERNANCE.md)) has an independent contributor ladder for one or more topics under the project.
+
+### Topic areas: GUAC
 
 Since GUAC is a complex project, there are 5 software topic areas of interest:
 
@@ -36,7 +39,11 @@ Since GUAC is a complex project, there are 5 software topic areas of interest:
 - Front-end: GUAC visualisation libraries, Javascript, CSS
 - Clients: GUAC CLI, CI Checks, Policy Engines, IDE Plugins, etc.
 
-In addition, there are 2 non-code topic areas:
+### Topic areas: Trustify
+
+### Other topic areas
+
+Outside the code of the core projects, there are other topic areas:
 
 - Documentation: Maintaining docs and examples
     - Repositories:
@@ -46,6 +53,8 @@ In addition, there are 2 non-code topic areas:
     - Repositories:
         - [guacsec/guac-landing](https://github.com/guacsec/guac-landing)
         - (eventual social media accounts)
+
+### Ladder levels
 
 The contribution ladder is summarized in the table below.
 All software and non-code topic areas use this latter.
@@ -57,16 +66,11 @@ All software and non-code topic areas use this latter.
 | [Owner](#owner) | Set direction and priorities for topic area. Approval of contributions | Deep technical expertise in topic area. Proven record of reviews and authorship. | Invitation to owner&maintainers only channels | Write
 | [Maintainer](#maintainer) | Set direction and priorities of project. Participate in weekly syncs | Expertise in 3 out of the 5 topic areas | (almost) complete repository access | Maintain
 
-### Ladder levels
-
 Each level of the ladder is also described in more details below.
 
 #### Community Participant
 
 Each new contributor to GUAC starts at this level.
-There is no longer a formal requirement to
-[register desire to contribute in issue #1](https://github.com/guacsec/guac/issues/1).
-
 There are no requirements and no privileges.
 Every community participant can create issues, fork the repository, create PRs, add comments to issues and PRs.
 
@@ -98,10 +102,6 @@ A maintainer has almost full access to the repository and is invited to all main
 They must have ability to commit to participating to at least the weekly maintainer sync meetings (currently 2 meetings totaling up to 2 hours every week).
 
 A maintainer might be required to work with GUAC clients, thus they might be required to sign NDAs.
-
-The [GUAC governance document](https://github.com/guacsec/guac/blob/main/GOVERNANCE.md) also details the role of technical advisory member, which is offered to members of the community that
-have provided valuable input.
-The technical advisory members have a consulting role and are the only role without an activity requirement.
 
 ### Moving up and down the ladder
 
@@ -155,18 +155,18 @@ If you are a member of the triage team and no longer want to be part of it, plea
 
 | Reviewer | Area | Vote |
 |-|-|-|
-| [dejanb](https://github.com/dejanb) | Ingestion | [issues/1885](https://github.com/guacsec/guac/issues/1885) |
-| [mdeicas](https://github.com/mdeicas) | API | [issues/1885](https://github.com/guacsec/guac/issues/1885) |
-| [robert-cronin](https://github.com/robert-cronin) | CLI | [issues/2361](https://github.com/guacsec/guac/issues/2361) |
-| [robert-cronin](https://github.com/robert-cronin) | Ingestion | [issues/2361](https://github.com/guacsec/guac/issues/2361) |
-| [nathannaveen](https://github.com/nathannaveen) | CLI | [issues/2361](https://github.com/guacsec/guac/issues/2361) |
-| [funnelfiasco](https://github.com/funnelfiasco) | Front-end | [governance#57](https://github.com/guacsec/governance/issues/57)
+| [dejanb](https://github.com/dejanb) | GUAC Ingestion | [issues/1885](https://github.com/guacsec/guac/issues/1885) |
+| [mdeicas](https://github.com/mdeicas) | GUAC API | [issues/1885](https://github.com/guacsec/guac/issues/1885) |
+| [robert-cronin](https://github.com/robert-cronin) | GUAC CLI | [issues/2361](https://github.com/guacsec/guac/issues/2361) |
+| [robert-cronin](https://github.com/robert-cronin) | GUAC Ingestion | [issues/2361](https://github.com/guacsec/guac/issues/2361) |
+| [nathannaveen](https://github.com/nathannaveen) | GUAC CLI | [issues/2361](https://github.com/guacsec/guac/issues/2361) |
+| [funnelfiasco](https://github.com/funnelfiasco) | GUAC Front-end | [governance#57](https://github.com/guacsec/governance/issues/57)
 
 ### Owners list
 
 | Owner | Area | Vote |
 |-|-|-|
-| [mrizzi](https://github.com/mrizzi) | [Backends (ent)](https://github.com/guacsec/guac/tree/4012842fab5d738f9bebf03f0cb44fc7ce39438b/pkg/assembler/backends/ent) | [issues/1310](https://github.com/guacsec/guac/issues/1310) |
+| [mrizzi](https://github.com/mrizzi) | GUAC [Backends (ent)](https://github.com/guacsec/guac/tree/4012842fab5d738f9bebf03f0cb44fc7ce39438b/pkg/assembler/backends/ent) | [issues/1310](https://github.com/guacsec/guac/issues/1310) |
 | [funnelfiasco](https://github.com/funnelfiasco) | Web & Marketing | [governance#15](https://github.com/guacsec/governance/issues/15)
 | [funnelfiasco](https://github.com/funnelfiasco) | Docs | [issues/2361](https://github.com/guacsec/guac/issues/2361)
 

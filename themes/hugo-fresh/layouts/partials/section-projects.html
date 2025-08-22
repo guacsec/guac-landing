@@ -1,0 +1,51 @@
+{{- $sectionProjects := .Site.Params.sectionProjects }}
+{{- $title    := index $sectionProjects "title" }}
+{{- $subtitle := index $sectionProjects "subtitle" }}
+{{- $tiles    := index $sectionProjects "coreProjects" }}
+{{- $additionalProjects := index $sectionProjects "additionalProjects" }}
+
+<section class="section section-quad is-medium">
+  <div class="container">
+    <div class="title-wrapper has-text-centered">
+      <h2 class="title is-2">{{ $title }}</h2>
+      <div class="divider is-centered"></div>
+    </div>
+
+    <div class="content-wrapper">
+      <h3 class="subtitle is-centered is-2 has-text-centered is-muted">Core projects</h3>
+      <div class="columns">
+        {{- range $tiles }}
+        <div class="column is-half">
+        <a href="{{ .url }}">
+          <div class="feature-card is-bordered has-text-centered revealOnScroll delay-1" data-animation="fadeInLeft">
+            <div class="card-title">
+              <h4>{{ .title }}</h4>
+            </div>
+            <div class="card-icon">
+                <img src="{{ printf "/images/logos/%s" .logo | relURL }}">
+            </div>
+            <div class="card-text">
+               <p>{{ .text }}</p>
+            </div>
+          </div>
+        </a>
+        </div>
+        {{- end }}
+      </div>
+
+      <div>
+        <h3 class="subtitle is-centered is-2 has-text-centered is-muted">Additional projects</h3>
+        <div class="is-centered columns">
+            <ul>
+            {{- range $additionalProjects }}
+            <li style="font-size: larger;"><a href="{{ .link }}">{{ .title }}</a></li>
+            {{- end }}
+            </ul>
+        </div>
+        <div class="is-centered columns">
+        <p style="color: black;">For all repositories, see the <a href="https://github.com/guacsec">guacsec GitHub organization</a>.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

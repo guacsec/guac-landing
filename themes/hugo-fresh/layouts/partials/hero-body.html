@@ -11,7 +11,7 @@
     <div class="columns is-vcentered">
       <div class="column is-5 is-offset-1">
         <figure class="image is-3by3">
-          <img src="{{ printf "/images/%s" $image | relURL }}" alt="Description">
+          <img src="{{ printf "/images/%s" $image | relURL }}" style="width: 200px" alt="Description">
         </figure>
       </div>
 
@@ -24,14 +24,6 @@
           {{ . }}
         </h2>
         {{ end }}
-        <p>
-          <a class="button cta rounded primary-btn raised" href="{{ $button1Link }}">
-            {{ $button1Text }}
-          </a>
-          <a class="button cta rounded tertiary-btn raised" href="{{ $button2Link }}">
-            {{ $button2Text }}
-          </a>
-        </p>
       </div>
     </div>
   </div>
