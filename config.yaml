@@ -140,3 +140,31 @@ params:
     subtitle: The Graph for Understanding Artifact Composition (GUAC) maintainers are pleased to announce the project has joined the Open Source Security Foundation (OpenSSF) as an Incubating Project in the Supply Chain Integrity Working Group.
     buttonText: Learn More
     buttonLink: "https://openssf.org/projects/guac/"
+
+  footer:
+    # Logo (from /images/logos/___)
+    logo: guac-logo-squareish.png
+    # Social Media Title
+    socialmediatitle: Follow GUAC
+    # # Social media links (GitHub, Twitter, etc.). All are optional.
+    socialmedia:
+    #   # Icons are from Font Awesome
+      - link: /blog/index.xml
+        icon: rss
+      - link: https://youtube.com/@guacsec
+        icon: youtube
+      - link: https://github.com/guacsec
+        icon: github
+    quicklinks:
+      column1:
+        title: "Community"
+        titleLink: /community
+      column2:
+        title: "Blogs"
+        titleLink: /blogs
+      column3:
+        title: "Demos"
+        titleLink: https://docs.guac.sh/guac-use-cases/
+      column4:
+        title: "Docs"
+        titleLink: https://docs.guac.sh/
