@@ -64,7 +64,7 @@ All software and non-code topic areas use this latter.
 | [Community Participant](#community-participant) | Follow [OpenSSF Code of Conduct](https://openssf.org/community/code-of-conduct/) | N/A | N/A | Read (default)
 | [Reviewer](#reviewer) | Review contributions from other members | Prove technical expertise in at least one GUAC topic area | Can approve PRs | Write
 | [Owner](#owner) | Set direction and priorities for topic area. Approval of contributions | Deep technical expertise in topic area. Proven record of reviews and authorship. | Invitation to owner&maintainers only channels | Write
-| [Maintainer](#maintainer) | Set direction and priorities of project. Participate in weekly syncs | Expertise in 3 out of the 5 topic areas | (almost) complete repository access | Maintain
+| [Maintainer](#maintainer) | Set direction and priorities of project. Participate in bi-weekly syncs | Expertise in 3 out of the 5 topic areas | (almost) complete repository access | Maintain
 
 Each level of the ladder is also described in more details below.
 
@@ -99,7 +99,7 @@ An owner that gains a deep understanding of GUAC architecture and design and can
 the processes specified in [the governance document](https://github.com/guacsec/guac/blob/main/GOVERNANCE.md).
 
 A maintainer has almost full access to the repository and is invited to all maintainer meetings, where they can contribute input that will set direction and priorities of the entire project.
-They must have ability to commit to participating to at least the weekly maintainer sync meetings (currently 2 meetings totaling up to 2 hours every week).
+They must have ability to commit to participating to at least the maintainer sync meetings (currently one hour every two week).
 
 A maintainer might be required to work with GUAC clients, thus they might be required to sign NDAs.
 

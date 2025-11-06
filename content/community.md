@@ -18,7 +18,7 @@ If you are a new user to the OpenSSF Slack you can get an invite to join by goin
 
 ### Meetings
 
-The GUAC maintainers meet weekly on Mondays to discuss project development and governance.
+The GUAC maintainers meet bi-weekly on alternate Mondays to discuss project development and governance.
 
 * Time and location on the [OpenSSF Calendar](https://openssf.org/getinvolved/)
 * Past meeting recordings: [GUAC YouTube channel](https://www.youtube.com/watch?v=qp1EwXQXXcM&list=PL3pS03waoqbLf5yEkjABg8Gb4qB_vf1IU&pp=gAQBiAQB)
